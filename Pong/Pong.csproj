@@ -82,6 +82,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ramlogo.ico" />
+    <None Include="Resources\peeeooop_x.wav" />
+    <None Include="Resources\fanfare_x.wav" />
+    <None Include="Resources\boing2.wav" />
+    <None Include="Resources\applause3.wav" />
     <None Include="Resources\collision.wav" />
     <None Include="Resources\score.wav" />
     <None Include="Resources\wall bounce.wav" />
